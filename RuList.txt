@@ -1,0 +1,7 @@
+*.max.ru
+*.ya.ru
+*.yandex.com
+*.yandex.org
+*.yandex.ru
+*.yandex.net
+*.dzen.ru
